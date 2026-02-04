@@ -1,0 +1,28 @@
+# OCR Spell Corrector - Python Dependencies
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# Data processing
+pandas>=2.0.0
+
+# Metrics evaluation
+evaluate>=0.4.0
+datasets>=2.0.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# System monitoring
+psutil>=5.9.0
+
+torch==2.7.1
+torchvision==0.22.1
+
+pillow
+
+matplotlib
+
+opencv-python 
+
+gradio
+
+timm
